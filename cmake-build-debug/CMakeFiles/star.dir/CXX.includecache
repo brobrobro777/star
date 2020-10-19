@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/Lr1/star/main.cpp
+iostream
+-
+cstdio
+-
+

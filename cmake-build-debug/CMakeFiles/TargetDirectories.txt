@@ -1,0 +1,3 @@
+D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/Lr1/star/cmake-build-debug/CMakeFiles/star.dir
+D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/Lr1/star/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kirill/VUZ/5_Semestr/Revers/4stud_2020/Lr1/star/cmake-build-debug/CMakeFiles/rebuild_cache.dir
