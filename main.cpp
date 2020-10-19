@@ -8,7 +8,6 @@ int main() {
 
     std::cout << "Enter 2 symbols to build a tree by them" << std::endl;
     scanf("%c%c", &symbols[0], &symbols[1]);
-    std::cout << symbols[0] << " " << symbols[1] << std::endl;
 
     (*result).push_back(symbols[0]);
     (*result).push_back('\n');
